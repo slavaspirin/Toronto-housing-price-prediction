@@ -24,4 +24,4 @@ Ontario housing market has been surprising and keeping my attention for quite a 
 
 Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/algotraiding/blob/master/algorithmic%20trading%20system.ipynb)
 
- <img src="bokeh_toronto_housing_capture_1.jpg"> 
+ <img src="bokeh_toronto_housing_capture_1.JPG"> 
