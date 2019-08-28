@@ -22,6 +22,6 @@ Ontario housing market has been surprising and keeping my attention for quite a 
 - Automatic hyperparameter tuning
 - Model averaging and Model Stacking
 
-Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)
+**Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)**
 
  <img src="bokeh_toronto_housing_capture_1.JPG"> 
