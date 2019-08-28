@@ -12,7 +12,7 @@ Ontario housing market has been surprising and keeping my attention for quite a 
 - How to select the right model?
 - What is the best approach to hyperparameter optimization?
 
-###Things you might find interesting in this paper:###
+#### Things you might find interesting in this paper: ####
 - Web scrapping from any page online
 - Building your own dataset and feature engineering
 - Geographical data visualization
@@ -22,6 +22,6 @@ Ontario housing market has been surprising and keeping my attention for quite a 
 - Automatic hyperparameter tuning
 - Model averaging and Model Stacking
 
-Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/algotraiding/blob/master/algorithmic%20trading%20system.ipynb)
+Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)
 
  <img src="bokeh_toronto_housing_capture_1.JPG"> 
