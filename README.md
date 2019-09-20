@@ -1,4 +1,4 @@
-# Toronto Housing Price Prediction #
+# Toronto Housing Price Prediction # 
 
 This project is probably one of the best things I have done this summer as it made me read and research things that I otherwise would not. Hours and hours spent deciding how to approach it, getting the data, plotting the most beautiful geomaps of the city I live in, preprocessing, deciding what models to use and, of course, parameters’ tuning. Being stuck in one of these topics and trying to sort things out sometimes takes days to finish, yet gives me great satisfaction when I see the work done.
 
