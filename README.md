@@ -24,4 +24,5 @@ Ontario housing market has been surprising and keeping my attention for quite a 
 
 **Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)**
 
- <img src="readme_intro_pic.jpg"> 
+ <img src="readme_intro_pic.jpg">
+ 
