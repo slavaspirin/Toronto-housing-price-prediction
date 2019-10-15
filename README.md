@@ -1,26 +1,38 @@
 # Toronto Housing Price Prediction # 
 
-This project is probably one of the best things I have done this summer as it made me read and research things that I otherwise would not. Hours and hours spent deciding how to approach it, getting the data, plotting the most beautiful geomaps of the city I live in, preprocessing, deciding what models to use and, of course, parameters’ tuning. Being stuck in one of these topics and trying to sort things out sometimes takes days to finish, yet gives me great satisfaction when I see the work done.
+The volume of preliminary work this project required amounted to perhaps one of the most challenging yet rewarding experiences Iâ€™ve had this summer. Through countless iterations on approach, fetching data, and finalizing model selection to plotting beautiful geomaps, preprocessing, and finally parametersâ€™ tuning, each step produced a POC-like hurdle that took time to overcome but ultimately led to fruitful professional development. Surprisingly, although helpful, a three month data science course I took earlier this year paled in comparison to the growth I experienced spending my Friday nights working on this project in happy solitude.
 
-Why I chose this topic? About two years ago, in 2016, I was working in a bank as an Underwriter and had to work with tons of housing data, Investment loans, RRSPs, TFSAs. Many applications go through your hands and you learn things quickly, but it also involves lots of manual work, banking is probably the most conservative field out there so seeing something state of the art in your office is an unusual luxury. Whereas it Tech world it takes weeks/months to implement a new idea, In Banking you might never see it yourself, hope my kids will!
+The deciding factor in terms of subject matter comes from an experience I had last year as a Credit Risk Analyst at a bank. As expected, the role required processing many TFSA, RRSP, investment loan as well as housing applications. It piqued my curiosity into the Ontario housing market, particularly price prediction without manual human involvement. Many questions such as how different areas compare to each other in terms of value, price, demographic distribution, etc, remained unanswered even upon my departure from finance this past year. Since banking institutions have difficulty completely transitioning from their analog/manual past, it ensures working with new, efficient technology an unusual luxury. With my current skillset, I figured I had the tools to attempt a solution.
 
-Ontario housing market has been surprising and keeping my attention for quite a while. I was curious how predicting housing prices work without manual human involvement, how different areas compare to each other in terms of value, price, people who live in there etc… Many questions remained unanswered even after leaving the bank last year. After a little bit of the thinking, I started wondering: Why wouldn’t I write my own project? I did not take much of a data when I left so I had nothing on hands to work with. Bless government of Canada that made local real estate companies disclose housing sales to public, finally something to work with. This year I also went to a coding school to study Data Science, that definitely helped, but even after 3 months of school I didn’t learn as many things as I did by myself spending my Friday nights in happy solitude.
-#### What questions I wanted to answer? ####
-- Where and how to get the dataset?
-- How to feature engineer my own predictors coming from different sources?
-- Determine the most expensive areas of the city?
-- How to select the right model?
-- What is the best approach to hyperparameter optimization?
+Special note: The project was based on the real data that came from the bank's database. In order to avoid any confidentiality issues I have decided to recreate the project and use the similar techniques I used there but with the publicly available data. I took advantage of the Canadian governmentâ€™s enforcement towards real estate companies to disclose their housing sales to the public.
 
-#### Things you might find interesting in this paper: ####
-- Web scrapping from any page online
-- Building your own dataset and feature engineering
+##Related questions:##
+
+- Sources and means to obtain the housing dataset
+- Feature engineer new predictors using different sources
+- Key insights from current housing market
+- ML model selection
+- Best approach to hyperparameter optimization
+
+##Projectâ€™s key takeaways:##
+
+- Efficient web scraping
+- Self built dataset and feature engineering
 - Geographical data visualization
 - Standardizing and power transforming the data
-- Dealing with missing data
-- Creating custom objectives and evaluations for your ML model
+- Handling missing data
+- Creating custom objectives and evaluations for ML model
 - Automatic hyperparameter tuning
 - Model averaging and Model Stacking
+
+Datasets:
+
+- Handcrafted housing dataset (time horizon - 1 year)
+- Geographical data of GTA neighbourhoods
+- Neighbourhood profiles (2 â€“ years old)
+- Geographical data of Toronto subway lines/stations
+
+Limitation: Although the latest Torontonian income level was unavailable, the relational information from the 2017 dataset sufficed.
 
 **Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)**
 
