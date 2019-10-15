@@ -6,7 +6,7 @@ The deciding factor in terms of subject matter comes from an experience I had la
 
 Special note: The project was based on the real data that came from the bank's database. In order to avoid any confidentiality issues I have decided to recreate the project and use the similar techniques I used there but with the publicly available data. I took advantage of the Canadian government’s enforcement towards real estate companies to disclose their housing sales to the public.
 
-##Related questions:##
+## Related questions: ##
 
 - Sources and means to obtain the housing dataset
 - Feature engineer new predictors using different sources
@@ -14,7 +14,7 @@ Special note: The project was based on the real data that came from the bank's d
 - ML model selection
 - Best approach to hyperparameter optimization
 
-##Project’s key takeaways:##
+## Project’s key takeaways: ##
 
 - Efficient web scraping
 - Self built dataset and feature engineering
@@ -25,7 +25,7 @@ Special note: The project was based on the real data that came from the bank's d
 - Automatic hyperparameter tuning
 - Model averaging and Model Stacking
 
-Datasets:
+## Datasets: ##
 
 - Handcrafted housing dataset (time horizon - 1 year)
 - Geographical data of GTA neighbourhoods
