@@ -4,9 +4,9 @@ The volume of preliminary work this project required amounted to perhaps one of 
 
 The deciding factor in terms of subject matter comes from an experience I had last year as a Credit Risk Analyst at a bank. As expected, the role required processing many TFSA, RRSP, investment loan as well as housing applications. It piqued my curiosity into the Ontario housing market, particularly price prediction without manual human involvement. Many questions such as how different areas compare to each other in terms of value, price, demographic distribution, etc, remained unanswered even upon my departure from finance this past year. Since banking institutions have difficulty completely transitioning from their analog/manual past, it ensures working with new, efficient technology an unusual luxury. With my current skillset, I figured I had the tools to attempt a solution.
 
-```
+
 Special note: The project was based on the real data that came from the bank's database. In order to avoid any confidentiality issues I have decided to recreate the project and use the similar techniques I used there but with the publicly available data. I took advantage of the Canadian government’s enforcement towards real estate companies to disclose their housing sales to the public.
-```
+
 ## Related questions: ##
 
 - Sources and means to obtain the housing dataset
@@ -33,9 +33,9 @@ Special note: The project was based on the real data that came from the bank's d
 - Neighbourhood profiles (2 – years old)
 - Geographical data of Toronto subway lines/stations
 
-```
+
 Limitation: Although the latest Torontonian income level was unavailable, the relational information from the 2017 dataset sufficed.
-```
+
 **Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)**
 
  <img src="readme_intro_pic.jpg">
