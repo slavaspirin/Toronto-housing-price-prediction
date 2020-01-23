@@ -36,7 +36,7 @@ The deciding factor in terms of subject matter comes from an experience I had la
 
 > Limitation: Although the latest Torontonian income level was unavailable, the relational information from the 2017 dataset sufficed.
 
-**Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb)**
+**Continue [HERE](https://nbviewer.jupyter.org/github/SlavOK400/Toronto-housing-price-prediction/blob/master/GTA_housing.ipynb) (using nbviewer )**
 
  <img src="readme_intro_pic.jpg">
  
